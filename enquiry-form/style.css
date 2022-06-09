@@ -6,3 +6,11 @@
     background-position: 10px;
     font-family: 'Lobster', cursive;
 }
+
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+}
